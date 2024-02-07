@@ -25,8 +25,6 @@ useEffect(() => {
      fetchData();    
      
 },[]);
-console.log(exchangerate)
-
   return (
     <div className='exchange-section'>
        {
